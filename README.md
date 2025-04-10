@@ -70,7 +70,7 @@ Challenges i foresee -  finding  the right number of hidden layer , activation f
 
 #### Performance of my model::
 
-![[Pasted image 20250410180540.png]]
+![screenshot](https://github.com/samarthbanodia/WNCC-ASSIGNMENT-ML/blob/main/Screenshot%202025-04-10%20180436.png)
 ignore the warning .
 
 I tried tuning the hyperparameter , increasing the epochs  , adding more layers with different numner of neurons but the accuracy didnt seem to go beyond 0.2 .
