@@ -1,3 +1,5 @@
+LINK FOR THIS REPO :: https://github.com/samarthbanodia/WNCC-ASSIGNMENT-ML/tree/main
+
 For the ML model to understand the text we need to preprocess the data and represent in format that the model can understand. Preprocessing is mainly just cleaning the data and making it simpler for further steps, this reduces the computional power required and makes the model slightly faster.
 
 #### My approach - after reading the assignment i made my way to youtube to find out what all the preprocessing , data rep methods do and how to write them in code. I decided to work with tensorflow as i have worked with it before , I decided to build a NN model for the assignment as its more suitbale for Text classification on a relatively smaller training set. I knew what vector embedding and tokenizations were as i had learnt someof the stuff before watching 3b1b videos . I knew i had to use regex to clean the data as i used it in my WIDS project as well. After that i generated the sample csv files from chatgpt and for the eval metric part i found that scikit learn has modules for precision , recall , f1 which can  be used directly .  
